@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+app:
+  firebase-configuration-file: rmmproject-b5d34-firebase-adminsdk-el1yj-b9baff4b46.json
